@@ -1,0 +1,4 @@
+John 1980 Mercedes 255 255 102
+Mary 1997
+Krystian 1998 Fiat 255 255 255
+Wedrowniczek 1998 Porshe 0 0 0
